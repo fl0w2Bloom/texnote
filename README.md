@@ -1,0 +1,2 @@
+# texnote
+notecfg
